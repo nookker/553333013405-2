@@ -15,9 +15,7 @@ public class Kagawa {
 		name = "Shinji Kagawa";
 		position = "RB";
 		friend  = new String[] {"David De Gea", "Adnan Januzaj", "Adnan Januzaj", "Adnan Januzaj"};
-		/*friend [1] = "Adnan Januzaj";
-		friend [2] = "Juan Mata";
-		friend [3] = "Wayne Rooney";*/
+	
 		
 		System.out.println("Shinji Kagawa");
 	}
